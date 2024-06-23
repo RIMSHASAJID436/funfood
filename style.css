@@ -239,7 +239,7 @@ input {
 
 }
 
-@media screen and (max-width:450px) {
+@media screen and (max-width:767px) {
     .back-img {
         background-image: none;
         background-position: none;
@@ -249,7 +249,7 @@ input {
 
     .footer {
         background: #131230;
-        height: 160vh;
+        height: 120vh;
        
     }
     .container .row-reverse{
@@ -272,5 +272,14 @@ input {
         background-color: rgba(15, 14, 15, 0.589);
         height: 130vh;
         width: 100%;
+    }
+    .back-img2 {
+        background-image: url(img/reservation-bg.jpg);
+        background-repeat: no-repeat;
+        background-position: top;
+        height: 90vh;
+        margin-top: 5% !important;
+        text-align: center;
+        color: white;
     }
 }
