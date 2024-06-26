@@ -294,9 +294,9 @@ width: 100%;
     }
 
     .cust-p {
-        width: 380px;
+        width: 350px;
         font-size: small;
-        padding-left: 2%;
+        padding-left: 1%;
         color: white;
     }
 
@@ -334,7 +334,7 @@ width: 100%;
 
     .img-opacity2 p {
         font-size: small;
-     
+     width: 360px;
         padding-left: 0;
         margin-left:0 !important;
         box-sizing: border-box;
