@@ -296,7 +296,7 @@ width: 100%;
     .cust-p {
         width: 350px;
         font-size: small;
-        padding-left: 1%;
+        padding-left: 1% !important;
         color: white;
     }
 
