@@ -289,14 +289,14 @@ width: 100%;
     .cust {
         font-size: 40px;
         width: 350px;
-        padding-left: 13%;
+        padding-left: 12%;
         color: white;
     }
 
     .cust-p {
         width: 360px;
         font-size: small;
-        padding-left: 1% !important;
+        padding-left: 2% !important;
         color: white;
     }
 
@@ -335,11 +335,16 @@ width: 100%;
     .img-opacity2 p {
         font-size: small;
      width: 360px;
-        padding-left: 10px o !important;
+        padding-left: 30px  !important;
         margin-left:1% !important;
         box-sizing: border-box;
     }
-
+    .back-img3 {
+        width: 100%;
+        height: 10px;
+        margin-top: 5px;
+    }
+    
     .opaci-text h1 {
         font-size: 45px !important;
         font-weight: 900;
