@@ -289,7 +289,7 @@ width: 100%;
     .cust {
         font-size: 40px;
         width: 350px;
-        padding-left: 15%;
+        padding-left: 13%;
         color: white;
     }
 
@@ -318,7 +318,7 @@ width: 100%;
         background-repeat: no-repeat;
         background-position: top;
         height: 70vh;
-        margin-top: -15% !important;
+        margin-top: -25% !important;
         text-align: center;
         color: white;
     }
@@ -335,7 +335,7 @@ width: 100%;
     .img-opacity2 p {
         font-size: small;
      width: 360px;
-        padding-left: 0;
+        padding-left: 10px o !important;
         margin-left:1% !important;
         box-sizing: border-box;
     }
