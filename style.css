@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: sans-serif;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 
 }
 
@@ -294,7 +294,7 @@ width: 100%;
     }
 
     .cust-p {
-        width: 350px;
+        width: 360px;
         font-size: small;
         padding-left: 1% !important;
         color: white;
@@ -318,7 +318,7 @@ width: 100%;
         background-repeat: no-repeat;
         background-position: top;
         height: 70vh;
-        margin-top: -30% !important;
+        margin-top: -15% !important;
         text-align: center;
         color: white;
     }
@@ -336,7 +336,7 @@ width: 100%;
         font-size: small;
      width: 360px;
         padding-left: 0;
-        margin-left:0 !important;
+        margin-left:1% !important;
         box-sizing: border-box;
     }
 
