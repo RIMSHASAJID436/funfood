@@ -289,14 +289,14 @@ width: 100%;
     .cust {
         font-size: 40px;
         width: 350px;
-        padding-left: 18%;
+        padding-left: 15%;
         color: white;
     }
 
     .cust-p {
-        width: 400px;
+        width: 380px;
         font-size: small;
-        padding-left: 5%;
+        padding-left: 2%;
         color: white;
     }
 
@@ -334,9 +334,9 @@ width: 100%;
 
     .img-opacity2 p {
         font-size: small;
-        /* width: 380px; */
+     
         padding-left: 0;
-        margin-left: 1% !important;
+        margin-left:0 !important;
         box-sizing: border-box;
     }
 
