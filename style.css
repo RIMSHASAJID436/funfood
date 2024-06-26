@@ -275,7 +275,9 @@ i:hover {
         display: flex;
         flex-direction: column-reverse;
     }
-
+.opaci-text1{
+    box-sizing: border-box;
+}
     .cust {
         font-size: 40px;
         width: 350px;
@@ -315,7 +317,7 @@ i:hover {
         background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/table-bg.jpg);
         background-repeat: no-repeat;
         background-size: center;
-        height: 90vh;
+        height: 60vh;
         object-fit: cover;
         width: 100%;
     }
@@ -324,7 +326,8 @@ i:hover {
         font-size: small;
         width: 380px;
         padding-left: 0;
-        margin-left: 7% !important;
+        margin-left: 1% !important;
+        box-sizing: border-box;
     }
 
     .opaci-text h1 {
