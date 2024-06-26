@@ -244,7 +244,14 @@ i:hover {
     color: orange;
     cursor: pointer;
 }
+.cust {
+    color: white;
+}
 
+.cust-p {
+font-size: large;
+    color: white;
+}
 
 
 @media screen and (max-width:767px) {
@@ -287,9 +294,9 @@ width: 100%;
     }
 
     .cust-p {
-        width: 420px;
+        width: 400px;
         font-size: small;
-        padding-left: 8%;
+        padding-left: 5%;
         color: white;
     }
 
