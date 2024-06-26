@@ -277,17 +277,20 @@ i:hover {
     }
 .opaci-text1{
     box-sizing: border-box;
+width: 100%;
 }
     .cust {
         font-size: 40px;
         width: 350px;
         padding-left: 18%;
+        color: white;
     }
 
     .cust-p {
         width: 420px;
         font-size: small;
         padding-left: 8%;
+        color: white;
     }
 
     .img-opacity img {
@@ -324,7 +327,7 @@ i:hover {
 
     .img-opacity2 p {
         font-size: small;
-        width: 380px;
+        /* width: 380px; */
         padding-left: 0;
         margin-left: 1% !important;
         box-sizing: border-box;
