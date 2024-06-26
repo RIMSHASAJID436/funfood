@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-family: sans-serif;
     /* border: 1px solid red; */
+
 }
 
 h1 {
@@ -242,7 +243,7 @@ input {
 @media screen and (max-width:767px) {
     .main {
         width: 100%;
-        height: 70vh;
+        height: 75vh;
         background-image: url(img/banner-bg.jpg);
         background-position: center;
         object-fit: cover;
@@ -318,5 +319,8 @@ input {
         background-color: rgba(15, 14, 15, 0.589);
         min-height: 60vh;
         width: 100%;
+    }
+    body{
+        overflow-x: hidden;
     }
 }
